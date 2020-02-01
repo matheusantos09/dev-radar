@@ -1,0 +1,21 @@
+- Componente
+- Estado
+- Propriedade
+
+Componente:
+O componentes é uma função que devolve algum tipo de recurso
+
+    Deve-se usar eles quando:
+        Está se repetindo muito o código
+        Ou quando podemos isolar um pedaço da nossa aplicação e esse pedaço tem um scopo em comum para o funcionamneto do mesmo, isolando assim essa ação. 
+
+        O qual não interfere no restante da aplicação
+
+
+Propriedade:
+Informações que um Componente PAI passa ao componente filho.
+
+
+
+Estado:
+Informações mantidas pelo componente. (O react utilizada do conceito de imutabilidade)
